@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email = ["9350722+Sylvance@users.noreply.github.com"]
 
   spec.summary = "Bison creates end to end applications."
-  spec.description = "The Bison platform typically offers tools, frameworks, and services that cover the entire application development lifecycle, from designing the user interface (frontend) to managing data storage (database), including the logic and functionality (backend), and facilitating deployment and scaling (deployment infrastructure)."
+  spec.description = "Bison offers tools, frameworks, and services to cover entire application development lifecycle."
   spec.homepage = "https://github.com/Sylvance/bison/blob/main/README.md"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 3.0.0"

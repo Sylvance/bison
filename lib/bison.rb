@@ -2,6 +2,7 @@
 
 require_relative "bison/version"
 
+# Bison
 module Bison
   class Error < StandardError; end
 
