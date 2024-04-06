@@ -1,0 +1,20 @@
+current directory: /Users/sylvancembaka/Code/bison/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+/nix/store/babvw19jaxy3nzv2x8a3iwxq4ri56lcp-ruby-3.2.3/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/sylvancembaka/Code/bison/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240406-97656-yxy4cz sitelibdir\=./.gem.20240406-97656-yxy4cz clean
+
+current directory: /Users/sylvancembaka/Code/bison/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240406-97656-yxy4cz sitelibdir\=./.gem.20240406-97656-yxy4cz
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: -multiply_defined is obsolete
+ld: warning: ignoring duplicate libraries: '-lruby-3.2.3'
+
+current directory: /Users/sylvancembaka/Code/bison/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240406-97656-yxy4cz sitelibdir\=./.gem.20240406-97656-yxy4cz install
+install -c -p -m 755 cparse.bundle ./.gem.20240406-97656-yxy4cz/racc
+
+current directory: /Users/sylvancembaka/Code/bison/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240406-97656-yxy4cz sitelibdir\=./.gem.20240406-97656-yxy4cz clean
